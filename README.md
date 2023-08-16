@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/2gfRHLv6GZ8AAAAd/code-coding.gif)](https://github.com/SudeepKulkarni3301)
+[![MasterHead]([https://media.tenor.com/2gfRHLv6GZ8AAAAd/code-coding.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3Eqa&psig=AOvVaw3MF6QTz6KpG5OcxSlnMR3h&ust=1692293476931000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCID-yMza4YADFQAAAAAdAAAAABA3))](https://github.com/SudeepKulkarni3301)
 <h1 align="center">Hi 👋, I'm Sudeep Kulkarni</h1>
 <h3 align="center">A passionate Network Engineer and Enthusiast with an unwavering passion for staying true to myself in the ever-changing landscape of our world.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -8,7 +8,7 @@
 
 - 👯 Ever exploring with **Cutting edge technology.**
 
-- 👨‍💻 All of my projects are here at [https://github.com/SudeepKulkarni3301](https://github.com/SudeepKulkarni3301)
+- 👨‍💻 All of my projects are here at [https://github.com/SudeepKulkarni3301]([https://github.com/SudeepKulkarni3301](https://github.com/SudeepKulkarni3301?tab=repositories))
 
 - 📫 You can reach me **sudeepkulkarni71@gmail.com**
 
