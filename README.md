@@ -11,7 +11,7 @@
 
 - 👯 Ever exploring with **Cutting edge technology.**
 
-- 👨‍💻 All of my projects are here at [https://github.com/SudeepKulkarni3301]([https://github.com/SudeepKulkarni3301](https://github.com/SudeepKulkarni3301?tab=repositories))
+- 👨‍💻 <a href="https://github.com/SudeepKulkarni3301](https://github.com/SudeepKulkarni3301?tab=repositories">My Projects</a>
 
 - 📫 You can reach me **sudeepkulkarni71@gmail.com**
 
