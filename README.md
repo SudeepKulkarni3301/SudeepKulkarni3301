@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" alt="MasterHead" width="100%" height="20%">
+  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" alt="MasterHead" width="100%" height=200>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sudeep Kulkarni</h1>
